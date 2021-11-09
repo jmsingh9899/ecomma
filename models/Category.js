@@ -6,7 +6,7 @@ class Category extends Model {}
 
 Category.init(
   {
-    catergory_name: {
+    category_name: {
       type: DataTypes.STRING
     }
   },
